@@ -15,6 +15,6 @@ int main()
 {
     long long n;
     cin >> n;
-    cout << n / 2 - (n % 2 != 0 ? n : 0);
+    cout << n / 2 - (n % 2 != 0 ? n : 0) ;
     return 0;
 }
